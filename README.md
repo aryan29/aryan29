@@ -23,7 +23,7 @@ Hi, I'm Aryan Khandelwal pre-final year IT student at BIT Mesra
  <br/>
   <br/>
 <a href="https://github.com/aryan29/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan29&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Aryan's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan29&count_private=true&show_icons=true&include_all_commits=true" alt="Aryan's github stats" />
 </a>     
 <br/><br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan29&hide=jupyter notebook&layout=compact" alt="Aryan" />
