@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=aryan29&color=green)
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/aryan-khandelwal29/">
   <img align="left" alt="Aryan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
