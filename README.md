@@ -18,7 +18,7 @@
   <br/>
  
 Hi, I'm Aryan Khandelwal final year IT student at BIT Mesra    
-<br/> -->
+<br/> 
 
 
 - 🤔 I’m looking for help with designing and architecting softwares
