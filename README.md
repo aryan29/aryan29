@@ -19,6 +19,13 @@
   <br/>
  
 Hi, I'm Aryan Khandelwal final year IT student at BIT Mesra    
+<br/> 
+
+- 👯 I’m looking to collaborate on Django and Python
+- 💬 Ask me about Back-End Dev. and Hogwarts
+- 📫 How to reach me: [aryankhandelwal.tech](https://aryankhandelwal.tech/)
+
+<hr>
 
 
  <br/>
