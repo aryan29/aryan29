@@ -17,7 +17,7 @@
  <br/>
   <br/>
  
-Hi, I'm Aryan Khandelwal pre-final year IT student at BIT Mesra    
+Hi, I'm Aryan Khandelwal final year IT student at BIT Mesra    
 
 
  <br/>
