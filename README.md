@@ -20,8 +20,6 @@
 Hi, I'm Aryan Khandelwal final year IT student at BIT Mesra    
 <br/> 
 
-
-- 🤔 I’m looking for help with designing and architecting softwares
 - 👯 I’m looking to collaborate on Django and Python
 - 💬 Ask me about Back-End Dev. and Hogwarts
 - 📫 How to reach me: [aryankhandelwal.tech](https://aryankhandelwal.tech/)
@@ -32,7 +30,7 @@ Hi, I'm Aryan Khandelwal final year IT student at BIT Mesra
  <br/>
   <br/>
 <a href="https://github.com/aryan29/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan29&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Aryan's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan29&count_private=true&show_icons=true&include_all_commits=true" alt="Aryan's github stats" />
 </a>     
 <br/><br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan29&hide=jupyter notebook&layout=compact" alt="Aryan" />
